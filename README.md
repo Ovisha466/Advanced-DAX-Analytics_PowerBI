@@ -1,7 +1,7 @@
 # 📊 Advanced DAX Analytics in Power BI
 ## 📸 Dashboard & Analytics Preview
 
-![Moving Average customer sales and profit]()
+![Moving Average customer sales and profit](https://github.com/Ovisha466/Advanced-DAX-Analytics_PowerBI/blob/main/Screenshot%202026-03-10%20192222.png)
 
 ![Customer Sales Ranking](iterator_functions/customer_sales_ranking.png)
 
