@@ -1,11 +1,10 @@
 # 📊 Advanced DAX Analytics in Power BI
 ## 📸 Dashboard & Analytics Preview
 
-![Moving Average customer sales and profit]()
+![Moving Average customer sales and profit](https://github.com/Ovisha466/Advanced-DAX-Analytics_PowerBI/blob/main/Screenshot%202026-03-10%20192404.png)
 
-![Customer Sales Ranking](https://github.com/Ovisha466/Advanced-DAX-Analytics_PowerBI/blob/main/Screenshot%202026-03-10%20192222.png)
+![Customer Sales in different time period](https://github.com/Ovisha466/Advanced-DAX-Analytics_PowerBI/blob/main/Screenshot%202026-03-10%20192222.png)
 
-![Store Performance Comparison](table_and_filter_function/store_sales_percent.png)
 ## 🚀 Project Overview
 
 This repository showcases a collection of advanced **DAX (Data Analysis Expressions)** techniques implemented in Power BI.
